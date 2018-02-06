@@ -1,2 +1,4 @@
-# artistree
-COGS 120 Project. 
+repo
+====
+
+Project Description
